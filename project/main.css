@@ -1,0 +1,16 @@
+p{
+	color:aqua;
+    padding-bottom: 10px;
+	font-size:25px;
+	border-style: solid;
+    border-color: red green blue yellow;
+	 position: static;
+    border: 3px solid blanchedalmond;
+	padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+body {
+     background-color: black;
+}
